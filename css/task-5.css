@@ -1,0 +1,29 @@
+.widget {
+  margin-left: 120px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+button {
+  border-radius: 8px;
+  border: none;
+  padding: 8px 16px;
+  width: 148px;
+  height: 40px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+  cursor: pointer;
+  background: #4e75ff;
+}
+
+button:hover {
+  background: #6c8cff;
+}

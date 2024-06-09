@@ -1,0 +1,19 @@
+.picture-in-url{
+width: 360px;
+height: 300px;
+display: block;
+}
+
+
+
+.gallery{
+    list-style: none;
+    max-width: 1440px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+    padding: 100px 156px;
+}
+
